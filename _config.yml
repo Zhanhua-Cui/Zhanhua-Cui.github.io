@@ -14,9 +14,9 @@ title                    : "崔展华 | 上海交通大学"
 title_separator          : "-"
 name                     : &name "崔展华"
 description              : &description "崔展华的个人主页，上海交通大学计算机科学专业学生。"
-url                      : "https://jay-cui.github.io"
+url                      : "https://13941362717.github.io"
 baseurl                  : ""
-repository               : "Jay-Cui/Jay-Cui.github.io"
+repository               : "13941362717/13941362717.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -47,7 +47,7 @@ author:
   bitbucket        : 
   codepen          : 
   dribbble         : 
-  github           : "Jay-Cui"
+  github           : "13941362717"
   kaggle           : 
   stackoverflow    : 
 
