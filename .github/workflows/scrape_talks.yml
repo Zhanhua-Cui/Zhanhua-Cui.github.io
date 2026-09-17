@@ -1,6 +1,9 @@
 name: Scrape Talk Locations
 
 on:
+  # Allows running this workflow manually from the Actions tab, which is
+  # useful for verifying dependency changes without touching _talks/.
+  workflow_dispatch:
   push:
     paths:
       - 'talks/**'
