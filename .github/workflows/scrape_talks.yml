@@ -25,15 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install \
-            jupyter \
-            nbconvert \
-            pandas \
-            requests \
-            beautifulsoup4 \
-            geopy \
-            python-frontmatter \
-            getorg
+          python -m pip install -r requirements.txt
 
       - name: Run Jupyter Notebook
         run: |

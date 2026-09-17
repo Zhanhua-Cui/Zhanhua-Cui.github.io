@@ -1,0 +1,8 @@
+jupyter
+nbconvert
+pandas
+requests
+beautifulsoup4
+geopy
+python-frontmatter
+getorg
