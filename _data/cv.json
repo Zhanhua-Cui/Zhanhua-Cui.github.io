@@ -3,15 +3,15 @@
     "name": "崔展华",
     "label": "上海交通大学计算机科学专业学生",
     "email": "czh20070424@sjtu.edu.cn",
-    "phone": "",
+    "phone": null,
     "website": "https://zhanhua-cui.github.io",
-    "summary": "",
+    "summary": null,
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": null,
+      "postalCode": null,
       "city": "上海",
       "countryCode": "CN",
-      "region": ""
+      "region": null
     },
     "profiles": [
       {
